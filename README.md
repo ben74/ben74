@@ -13,8 +13,8 @@
 <hr>
 
 <center>
-  <a href='https://500px.com/p/benjamin_fontaine?view=photos' target='b'><img src='//1.x24.fr/a/aravispano.jpg'></a>
-  📫 <a href='https://www.linkedin.com/in/benjaminfontaine1/#https://alpow.fr/#contact' target=a>Questions ? Just click here :)<br><img src='//1.x24.fr/a/stardust-ban.jpg'></a></center>
+  <a href='https://500px.com/p/benjamin_fontaine?view=photos' target='b'><img src='http://1.x24.fr/a/aravispano.jpg'></a>
+  📫 <a href='https://www.linkedin.com/in/benjaminfontaine1/#https://alpow.fr/#contact' target=a>Questions ? Just click here :)<br><img src='http://1.x24.fr/a/stardust-ban.jpg'></a></center>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gh:ben74)
 
