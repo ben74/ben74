@@ -1,7 +1,7 @@
 ### Benjamin Fontaine Repositories
 
 <link href="https://raw.githubusercontent.com/ben74/ben74/main/style.css" rel="stylesheet"></link>
-<table><tr><td width=33%><a target='1' href='https://github.com/ben74/php'><img src='https://i.snipboard.io/FIvDM0.jpg'/><br>Php, docker, behat & Algorithms</a></td><td width=33%><a target='2' href='https://github.com/ben74/IAMachineLearning'><img src='https://i.snipboard.io/YDhCV3.jpg'/><br>Artificial Intelligence | Machine Learning</a></td><td width=33%><a target='3' href='//www.linkedin.com/in/benjaminfontaine1/' title='benjamin fontaine annecy'><img src='https://i.snipboard.io/2XzHKi.jpg'/><br>Feeling curious ? ..</a></td></tr></table>
+<table><tr><td width=33%><a target='1' href='https://github.com/ben74/php'><img src='https://i.snipboard.io/FIvDM0.jpg'/><br>Php, docker, behat & Algorithms</a></td><td width=33%><a target='2' href='https://github.com/ben74/IAMachineLearning'><img src='https://i.snipboard.io/YDhCV3.jpg'/><br>Artificial Intelligence | Machine Learning</a></td><td width=33%><center><a target='3' href='//www.linkedin.com/in/benjaminfontaine1/' title='benjamin fontaine annecy'><img src='https://i.snipboard.io/2XzHKi.jpg'/><br>Feeling curious ? ..</a></center></td></tr></table>
 
 - Benjamin Fontaine is a Señor <b>Php</b> BackEnd Developer since 2005, born in 1983 in Annecy, France, working mainly under <b>Magento/Symfony/Drupal</b> "technologies", focused on secure and fast to load functional websites / applications, <br>Proud ⚡ Graduated <b>Data Scientist</b> / Machine Learning Engineer ⚡ & Nlp Enthusiast, framework and language agnostic, opposed to senseless fanaticism.
 - He also codes in <b>python</b>, do tons of <b>bash scripting</b>, aerial filming, use <b>ffmpeg</b> for presentations, often share my screens for students, setup <b>docker</b> images + the "<b>devOps</b>" pipeline with extensive functionnal <b>testing</b> for putting all that junk online, from php5.3 to php8 .. depending how old the legacy projects are..
@@ -13,10 +13,8 @@
 <hr>
 
 <center>
-  <a href='https://helios-photos.fr#s:pano' target='b'><img src='http://1.x24.fr/a/aravispano.jpg'></a>
+  <a href='https://helios-photos.fr#gh' target='b'><img src='http://1.x24.fr/a/aravispano.jpg'></a>
   📫 <a href='https://www.linkedin.com/in/benjaminfontaine1/#https://alpow.fr/#contact' target=a>Questions ? Just click here :)<br><img src='http://1.x24.fr/a/stardust-ban.jpg'></a></center>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gh:ben74)
 
 ---
   
